@@ -55,10 +55,70 @@ I’m 19 years old and just starting my programming journey. This course is an i
 
 ## Projects
 Each day's project highlights the skills and concepts covered in that day's lessons. Here is a quick overview of some types of projects I will be working on:
-- **Games** - Building games like Blackjack, Snake, and Pong to practice logic, loops, and conditionals.
-- **Apps** - Developing apps like a Password Manager and Flash Card Quiz to apply Python to real-life tasks.
-- **Web Development** - Creating websites with Flask and exploring frontend and backend development.
-- **Data Science** - Working with Pandas, Matplotlib, and APIs for data analysis and visualization.
+Projects are categorized by field, showcasing various skills from game development to data science.
+
+---
+
+### Game Development
+| **Project**                     | **Day** |
+|---------------------------------|---------|
+| Band Name Generator             | Day 1   |
+| Treasure Island Game            | Day 3   |
+| Rock, Paper, Scissors           | Day 4   |
+| Hangman Game                    | Day 7   |
+| Caesar Cipher                   | Day 8   |
+| Blackjack Game                  | Day 11  |
+| Snake Game                      | Day 21  |
+| Pong Game                       | Day 22  |
+| U.S. States Game                | Day 25  |
+| Turtle Race                     | Day 19  |
+| Etch-A-Sketch Game              | Day 20  |
+
+### Data Science & Analysis
+| **Project**                     | **Day** |
+|---------------------------------|---------|
+| NATO Phonetic Alphabet Converter | Day 26  |
+| Rain Alert via Email             | Day 39  |
+| Amazon Price Tracker             | Day 47  |
+| Stock News Alert                 | Day 36  |
+| Workout Tracker                  | Day 38  |
+| Weather Alert via SMS            | Day 35  |
+| Habit Tracker                    | Day 37  |
+| Google Trends Analysis           | Day 68  |
+
+### Automation
+| **Project**                     | **Day** |
+|---------------------------------|---------|
+| Tip Calculator                  | Day 2   |
+| Password Generator              | Day 5   |
+| Calculator                      | Day 10  |
+| Miles-to-Kilometers Converter GUI | Day 27  |
+| Automated Job Application       | Day 49  |
+| Flash Card App                  | Day 31  |
+
+### Web Development
+| **Project**                     | **Day** |
+|---------------------------------|---------|
+| Coffee Machine                  | Day 16  |
+| Quiz Game                       | Day 17  |
+| Portfolio Website               | Day 91  |
+| Web Scraping & Data Extraction  | Days 45–50 |
+
+### GUI Applications
+| **Project**                     | **Day** |
+|---------------------------------|---------|
+| Pomodoro Timer App              | Day 28  |
+| Miles-to-Kilometers Converter   | Day 27  |
+| Flash Card App                  | Day 31  |
+
+
+---
+
+Each project is designed to reinforce a specific Python skill or concept, covering beginner to advanced levels. For more details, explore the individual folders for each project!
+
+**Note**: Some projects may require API keys or credentials for setup, as directed in the course.
+
+Happy coding!
 
 ---
 

@@ -33,7 +33,7 @@ Each day in the course has its own folder in this repository, containing a READM
 └── README.md            # Main README file
 ```
 
-## Progress Overview
+## Progress Tracker
 Here’s a quick look at what I’m learning along the way:
 
 | Day  | Topics Covered  | Project |
@@ -45,6 +45,8 @@ Here’s a quick look at what I’m learning along the way:
 | Day-005 | For Loops, Range | PyPassword Generator |
 | Day-006 | Functions, While Loops and Code Blocks | Reeborg's World Problems(Hurdel, Maze etc) |
 | Day-007 | Flow Chart Logic, Hangman Project Logic  | Hangman Project |
+| Day-008  | Functions with input, Parameters vs Arguments | Caesar Cipher Encoder/Decoder |
+| Day-009  | Dictionaries, Nested Lists and Dictionaries | Blind Auction |
 
 
 

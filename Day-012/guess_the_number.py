@@ -42,6 +42,4 @@ def game():
         elif user_guess != answer:
             print("guess again")
 
-game(
-
-)
+game()

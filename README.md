@@ -22,15 +22,19 @@ Each day in the course has its own folder in this repository, containing a READM
 📂 100-Days-Of-Code
 ├── Day-001
 │   ├── README.md        # Summary and learnings from Day 1
-│   └── code.py          # Project code for Day 1
+│   └── project_name
+│       └── code.py      # Project code for Day 1
 ├── Day-002
 │   ├── README.md        # Summary and learnings from Day 2
-│   └── code.py          # Project code for Day 2
+│   └── project_name
+│       └── code.py      # Project code for Day 2
 ...
 ├── Day-100
 │   ├── README.md        # Summary and learnings from Day 100
-│   └── code.py          # Project code for Day 100
-└── README.md            # Main README file
+│   └── project_name
+│       └── code.py      # Project code for Day 100
+└── README.md            # Main README file at the root of the repository
+
 ```
 
 ## Progress Tracker

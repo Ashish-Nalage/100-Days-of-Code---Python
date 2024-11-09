@@ -47,6 +47,11 @@ Here’s a quick look at what I’m learning along the way:
 | Day-007 | Flow Chart Logic, Hangman Project Logic  | Hangman Project |
 | Day-008  | Functions with input, Parameters vs Arguments | Caesar Cipher Encoder/Decoder |
 | Day-009  | Dictionaries, Nested Lists and Dictionaries | Blind Auction |
+| Day-010 | Functions with Output, Return vs Print, Multiple Return Values in a Function, Docstrings | Calculator                   |
+| Day-011 | Blackjack Capstone Project                                    | Blackjack Game (Capstone)                     |
+| Day-012 | Scope -Local and Global, Block Scope           | Number Guessing Game                          |
+| Day-013 | Debugging                                                     | Debugging (with previous projects)            |
+| Day-014 | Higher or Lower Game                                          | Higher or Lower Game Project                  |
 
 
 

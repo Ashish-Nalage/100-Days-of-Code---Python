@@ -33,6 +33,7 @@ def game():
         
         if score > 0:
             print(f"You're right! Current score: {score}.")
+            
         print(f"Compare A: {a["name"]}, {a["description"]}, {a["country"]}")
         print(art.vs)
         print(f"Against B: {b["name"]}, {b["description"]}, {b["country"]}")

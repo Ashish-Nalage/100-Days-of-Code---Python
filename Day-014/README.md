@@ -1,31 +1,35 @@
 # Day 14 - Higher or Lower Game
 
 ## Overview
-The **Higher or Lower Game** asks players to guess which of two Instagram profiles has more followers. The game continues until the player makes an incorrect guess, with the score increasing for each correct answer.
+The **Higher or Lower Game** is a fun comparison game where players guess which of two Instagram accounts has more followers. The game continues as long as the player guesses correctly, with the score increasing for each correct answer. It ends when the player makes an incorrect guess.
 
-## Key Concepts
-- **Random Selection**: Using `random.choice()` to pick random accounts from a dataset.
-- **Functions**:
-  - `account_selector()`: Chooses a random profile.
-  - `compare()`: Checks which profile has more followers based on the player's choice.
-- **Loop for Game Flow**: A `while` loop keeps the game running as long as guesses are correct.
-- **Score Tracking**: The score is updated with each correct guess and displayed to the player.
+## Key Features
+- **Random Selection**: Uses `random.choice()` to select random Instagram profiles from a dataset.
+- **Comparison Logic**: Compares the follower counts of two profiles based on user input ('A' or 'B').
+- **Score Tracking**: Keeps track of the player's score and displays it after each correct guess.
+- **Terminal Clearing**: Includes a function to clear the terminal screen for a cleaner user experience.
 
 ## Game Logic
-1. **Select Profiles**: Choose two random Instagram profiles.
-2. **Display Choices**: Show details of "Account A" and "Account B" (name, description, country).
-3. **Player Guess**: The player guesses which account has more followers by typing 'A' or 'B'.
-4. **Comparison**: Check if the player's guess is correct.
-   - If correct, increase the score and replace the lower profile.
-   - If incorrect, end the game and show the final score.
+1. **Profile Selection**:
+   - Two random profiles are chosen from the dataset.
+   - If the profiles are the same, a new profile is selected for comparison.
+2. **Display Information**:
+   - Shows details of "Account A" and "Account B" (name, description, country).
+   - The player guesses which profile has more followers.
+3. **Compare Followers**:
+   - The `compare()` function checks if the player's guess is correct by comparing follower counts.
+   - If the guess is correct, the score increases, and the player continues with a new comparison.
+   - If the guess is incorrect, the game ends, and the final score is shown.
+4. **Clearing Terminal**:
+   - The `clear()` function is used to clear the terminal screen after each round for better readability.
 
 ## How to Play
 1. Run the script.
 2. Guess which profile has more followers by typing 'A' or 'B'.
-3. Keep guessing correctly to increase your score.
-4. The game ends when you make an incorrect guess.
+3. Continue guessing correctly to increase your score.
+4. The game ends when you make an incorrect guess, and your final score is displayed.
 
 ## Improvements
-- Add more profiles for variety.
-- Implement a leaderboard to track high scores.
-- Enhance user experience with a GUI version.
+- **More Profiles**: Add additional data to enhance variety in comparisons.
+- **Leaderboard**: Implement a feature to track and display high scores.
+- **GUI Version**: Create a graphical version of the game for a better user experience.

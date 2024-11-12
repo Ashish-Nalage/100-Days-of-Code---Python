@@ -1,4 +1,4 @@
-# Python Essentials: Beginner Level (Days 1-15) Documentation
+# Python Essentials: Beginner Level (Days 1-14) Documentation
 
 ## 1. Basic Python Syntax
 - **`print()`**: Displays text or variables.

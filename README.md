@@ -56,7 +56,10 @@ Here’s a quick look at what I’m learning along the way:
 | Day-012 | Scope -Local and Global, Block Scope           | Number Guessing Game                          |
 | Day-013 | Debugging                                                     | Debugging (with previous projects)            |
 | Day-014 | Higher or Lower Game                                          | Higher or Lower Game Project                  |
-
+| Day-015  | Local Development Setup, coffee machine project | Coffee Machine (Procedural)             |
+| Day-016  | Object-Oriented Programming (OOP), Classes, Objects, Attributes, Methods | Coffee Machine (OOP Version)       |
+| Day-017  | Defining Classes, Initializing Attributes, Methods, Quiz Game Logic | Quiz Game with OOP                         |
+| Day-018  | Turtle Module, Reading Documentation, Creating Graphics with Turtle | Hirst Dot Painting                         |
 
 
 ---

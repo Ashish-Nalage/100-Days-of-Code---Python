@@ -5,6 +5,7 @@
 
 # Ignore virtual environment folder
 myenv/
+venv/
 
 # Ignore IDE/editor settings
 .vscode/

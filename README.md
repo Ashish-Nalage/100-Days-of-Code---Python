@@ -60,7 +60,7 @@ Here’s a quick look at what I’m learning along the way:
 | Day-016  | Object-Oriented Programming (OOP), Classes, Objects, Attributes, Methods | Coffee Machine (OOP Version)       |
 | Day-017  | Defining Classes, Initializing Attributes, Methods, Quiz Game Logic | Quiz Game with OOP                         |
 | Day-018  | Turtle Module, Reading Documentation, Creating Graphics with Turtle | Hirst Dot Painting                         |
-
+| Day-019  | Higher-Order Functions, Event Listeners, Instances, State, Turtle Coordinate System | Turtle Race Game |
 
 ---
 

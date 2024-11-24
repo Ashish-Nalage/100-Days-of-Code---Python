@@ -61,7 +61,7 @@ Here’s a quick look at what I’m learning along the way:
 | Day-017  | Defining Classes, Initializing Attributes, Methods, Quiz Game Logic | Quiz Game with OOP                         |
 | Day-018  | Turtle Module, Reading Documentation, Creating Graphics with Turtle | Hirst Dot Painting                         |
 | Day-019  | Higher-Order Functions, Event Listeners, Instances, State, Turtle Coordinate System | Turtle Race Game |
-
+| Day-020  | Snake Body Creation, Movement, Directional Controls, Modular Design | Snake Game: Part 1                         |
 ---
 
 ## Why I’m Doing This

@@ -6,8 +6,10 @@ class Ball(Turtle):
         self.penup()
         self.shape("circle")
         self.color("white")
-        self.setheading(45)
 
 
     def move(self):
-        self.forward(10)
+        new_x = self.xcor() + 10
+        new_y = self.ycor() + 10
+
+        self.goto(new_x, new_y)

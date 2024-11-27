@@ -63,6 +63,8 @@ Here’s a quick look at what I’m learning along the way:
 | Day-019  | Higher-Order Functions, Event Listeners, Instances, State, Turtle Coordinate System | Turtle Race Game |
 | Day-020  | Snake Body Creation, Movement, Directional Controls, Modular Design | Snake Game: Part 1                         |
 | Day-021  | Class Inheritance, List/Tuple Slicing, Snake Game Completion | Snake Game (Part 2)                         |
+| Day-022  | Object Collaboration, Collision Detection, Adjustable Ball Speed | Pong Game                                 |
+
 ---
 
 ## Why I’m Doing This

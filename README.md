@@ -66,6 +66,8 @@ Here’s a quick look at what I’m learning along the way:
 | Day-022  | Object Collaboration, Collision Detection, Adjustable Ball Speed | Pong Game                                 |
 | Day-023  | Object Collaboration, Collision Detection, Level System, Dynamic Difficulty | Turtle Crossing Game |
 | Day-024  | File Handling, String Manipulation, Snake Game High Score, Mail Merge Automation | Mail Merge Project, Snake Game Enhancement |
+| Day-025  | Reading CSV Files, DataFrames, Data Analysis, Saving CSV Files | Squirrel Data Analysis, U.S. States Game |
+
 
 
 

@@ -2,7 +2,7 @@ import turtle
 import pandas
 
 guessed_states_list = []
-missing_states = []
+
 no_of_states_guessed = 0
 
 # set up the screen
@@ -25,9 +25,8 @@ while no_of_states_guessed < 50:
 
     # adding exit option for user when stuck and create csv to learn missing states
     if answer_state == "Exit":
-        for state in all_states_list:
-            if state not in guessed_states_list:
-                missing_states.append(state)
+        missing_states = [state for state in all_states_list if state not in guessed_states_list]
+
         states_to_learn = pandas.DataFrame(missing_states)
         states_to_learn.to_csv("Day-025/us-states-game/states_to_learn.csv")
         break

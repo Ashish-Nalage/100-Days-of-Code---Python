@@ -67,6 +67,8 @@ Here’s a quick look at what I’m learning along the way:
 | Day-023  | Object Collaboration, Collision Detection, Level System, Dynamic Difficulty | Turtle Crossing Game |
 | Day-024  | File Handling, String Manipulation, Snake Game High Score, Mail Merge Automation | Mail Merge Project, Snake Game Enhancement |
 | Day-025  | Reading CSV Files, DataFrames, Data Analysis, Saving CSV Files | Squirrel Data Analysis, U.S. States Game |
+| Day-026  | List and Dictionary Comprehension, DataFrame Iterrows | NATO Phonetic Alphabet Project |
+
 
 
 

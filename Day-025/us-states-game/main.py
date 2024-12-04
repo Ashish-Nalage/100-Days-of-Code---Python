@@ -8,13 +8,13 @@ no_of_states_guessed = 0
 # set up the screen
 screen = turtle.Screen()
 screen.title("U.S. States Game")
-image = "Day-025/us_states_game/blank_states_img.gif"
+image = "Day-025/us-states-game/blank_states_img.gif"
 turtle.addshape(image)
 turtle.shape(image)
 
 
 # create dataframe of states 
-df = pandas.read_csv("Day-025/us_states_game/50_states.csv")
+df = pandas.read_csv("Day-025/us-states-game/50_states.csv")
 all_states_list = df.state.to_list()
  
 while no_of_states_guessed < 50:
@@ -29,7 +29,7 @@ while no_of_states_guessed < 50:
             if state not in guessed_states_list:
                 missing_states.append(state)
         states_to_learn = pandas.DataFrame(missing_states)
-        states_to_learn.to_csv("Day-025/us_states_game/states_to_learn.csv")
+        states_to_learn.to_csv("Day-025/us-states-game/states_to_learn.csv")
         break
 
     if answer_state in all_states_list and answer_state not in guessed_states_list:

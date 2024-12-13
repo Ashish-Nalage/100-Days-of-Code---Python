@@ -70,6 +70,7 @@ Here’s a quick look at what I’m learning along the way:
 | Day-026  | List and Dictionary Comprehension, DataFrame Iterrows | NATO Phonetic Alphabet Project |
 | Day-027  | Tkinter Basics, Widgets, Layout Management, *args, **kwargs | Mile to Km Converter, Widget Demo |
 | Day-028  | Time Management (`after`), Dynamic UI Updates, State Management | Pomodoro Timer Project |
+| Day-029  | File Handling, Messagebox Integration, Password Generation, Clipboard Management | Password Manager Project |
 
 
 

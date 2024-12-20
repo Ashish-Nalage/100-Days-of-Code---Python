@@ -32,8 +32,6 @@ This document provides a complete overview of the topics learned during the Inte
         def bark(self):
             print("Woof!")
     ```
-- **Slicing in OOP**:
-  - Used list slicing for object collections, such as iterating through specific segments of data in games.
 
 ---
 
@@ -57,6 +55,41 @@ This document provides a complete overview of the topics learned during the Inte
 
 ---
 
+## Turtle Graphics
+- **Turtle Basics**:
+  - Used the `turtle` module to create shapes, patterns, and interactive graphics.
+  - Example:
+    ```python
+    from turtle import Turtle
+    tim = Turtle()
+    tim.shape("turtle")
+    tim.color("blue")
+    tim.forward(100)
+    ```
+
+- **Color Modes**:
+  - Changed to RGB color mode using `turtle.colormode(255)`.
+  - Used `turtle.color()` to set fill and pen colors.
+
+- **Event Handling**:
+  - Detected key presses using `screen.listen()` and `onkey()` to trigger functions.
+
+- **Coordinate System**:
+  - Worked with the Turtle coordinate system for precise placement:
+    - Origin `(0,0)` at the center.
+    - Positive X-axis extends to the right, Y-axis upward.
+
+- **Projects and Techniques**:
+  - **Hirst Dot Painting**:
+    - Used Turtle loops and randomization to generate dot art.
+  - **Turtle Race Game**:
+    - Created a simple race simulation with multiple Turtle instances.
+
+- **Slicing with Turtle Objects**:
+  - Controlled collections of Turtle objects by slicing and iterating.
+
+Turtle Graphics served as an excellent introduction to graphical programming and event-based designs, combining creativity with logic.
+
 ## GUI Development with Tkinter
 - **Core Widgets**:
   - Learned to use `Label`, `Button`, `Entry`, `Canvas`, `Text`, `Listbox`, and more.
@@ -65,8 +98,7 @@ This document provides a complete overview of the topics learned during the Inte
     - `pack()`: Packs widgets vertically or horizontally.
     - `grid()`: Places widgets in a grid layout with rows and columns.
     - `place()`: Positions widgets precisely using x and y coordinates.
-- **Event Handling**:
-  - Used `onkey()` and button commands to interact with user input.
+
 
 ---
 
